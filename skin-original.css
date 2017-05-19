@@ -1,5 +1,5 @@
 .highlight {
-  background-color: #ddd;
+    background-color: #ddd;
 }
 
 button.btn {
@@ -28,7 +28,7 @@ button.btn {
   color: white;
 }
 
-.btnn--secondary {
+.btn--secondary {
   background: #efefef;
   color: #555;
 }
@@ -41,17 +41,4 @@ button.btn {
 .btn--extra-large {
   width: 350px;
   height: 70px;
-}
-
-.list {
-  font-size: 16px;
-}
-
-.list__item {
-  line-height: 1.2em;
-}
-
-.list--horizontal {
-  display: inline;
-  padding-right: 30px;
 }
